@@ -1,10 +1,5 @@
 #Pokedex
 
-##Run Program
-1. Open terminal
-2. Navigate to top directory in Pokedex
-3. Run `python3 pokedex_client_menu`
-
 ##Dependencies
   -Must have PyQt4 installed to use the Pokedex
 ###If you have Ubuntu, this process is easy:
@@ -14,6 +9,12 @@ Follow these links and their instructions (the links to the source files are in 
   - Installation instructions: [SIP] (http://pyqt.sourceforge.net/Docs/sip4/installation.html)
   - Installation instructions: [PyQt4] (http://pyqt.sourceforge.net/Docs/PyQt4/installation.html)
   
+##Run Program
+1. Open terminal
+2. Navigate to top directory in Pokedex
+3. Run `python3 pokedex_client_menu`
+
+
 ##Features
 ###Not case sensitive
   - whether you type in `charmander`, `Charmander`, or `ChArMaNdEr` it will find the desired pokemon
