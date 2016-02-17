@@ -1,5 +1,8 @@
 #Pokedex
 
+##Demo Video
+[Watch Demo] (http://youtu.be/ljOF1LvkUJY) 
+
 ##Dependencies
   -Must have PyQt4 installed to use the Pokedex
 ###If you have Ubuntu, this process is easy:
